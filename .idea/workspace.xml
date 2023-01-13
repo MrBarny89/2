@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ecb78c0-ae5f-498f-86d3-fe7f9d4b88a0" name="Changes" comment="Init of project">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPLeaning.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/synergy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/synergy/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/synergy/Rect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/synergy/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/synergy/constructorTest/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/synergy/encapsulationTest/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/synergy/interfaceTest/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/synergy/interfaceTest/Printable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -62,7 +53,7 @@
       <recent name="ru.synergy" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ru.synergy.interfaceTest.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.synergy.constructorTest.Main" />
       <module name="OOPLeaning" />
@@ -76,8 +67,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ru.synergy.interfaceTest.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.synergy.interfaceTest.Main" />
+      <module name="OOPLeaning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.synergy.interfaceTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ru.synergy.interfaceTest.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -91,6 +96,21 @@
       <option name="presentableId" value="Default" />
       <updated>1672922529072</updated>
     </task>
+    <task id="LOCAL-00001" summary="Init of project">
+      <created>1673284547848</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673284547849</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Init of project">
+      <created>1673284567602</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673284567602</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
